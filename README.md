@@ -1,6 +1,9 @@
 # MultiBanking
-        The aim of the project is to create a common  portal for multiple banks. So users can login  here and can access any of the available  banks and can do required transactions
-        This system acts as a standard interface between the clients and all the banks, By using this portal any client who maintain accounts in various banks can directly log on to Multi Banking System Interface and make any kind of transactions. In the backed, system will take care of the entire obligation required in order to carry on transaction smoothly.
+
+The aim of the project is to create a common  portal for multiple banks. So users can login  here and can access any of the available  banks and can do required transactions.
+
+This system acts as a standard interface between the clients and all the banks, By using this portal any client who maintain accounts in various banks can directly log on to Multi Banking System Interface and make any kind of transactions. In the backed, system will take care of the entire obligation required in order to carry on transaction smoothly.
+                                                  
 Project Analysis:
 
 This application consists following modules
